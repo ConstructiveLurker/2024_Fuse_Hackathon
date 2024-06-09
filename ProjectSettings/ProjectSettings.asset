@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 1487329d28b6f7e4783061514c378eb8
+  productGUID: 8a80089dcad4b9e4da64d87ffc9d2a06
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: Fuse VR Hackathon 2024
+  productName: Updated_Interaction_Test
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -140,10 +140,7 @@ PlayerSettings:
   visionOSBundleVersion: 1.0
   tvOSBundleVersion: 1.0
   bundleVersion: 0.1
-  preloadedAssets:
-  - {fileID: 11400000, guid: 1ec8edd965c340b49844cb3f170d7f67, type: 2}
-  - {fileID: 11400000, guid: 9859b201634a7914f81f686e1f8d58ef, type: 2}
-  - {fileID: 5349693537831138831, guid: 240db097f148dd04cbcb73c8cb6a4510, type: 2}
+  preloadedAssets: []
   metroInputSource: 0
   wsaTransparentSwapchain: 0
   m_HolographicPauseOnTrackingLoss: 1
@@ -163,8 +160,7 @@ PlayerSettings:
   resetResolutionOnWindowResize: 0
   androidSupportedAspectRatio: 1
   androidMaxAspectRatio: 2.1
-  applicationIdentifier:
-    Standalone: com.DefaultCompany.Fuse-VR-Hackathon-2024
+  applicationIdentifier: {}
   buildNumber:
     Standalone: 0
     VisionOS: 0
@@ -777,14 +773,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: Fuse VR Hackathon 2024
+  metroPackageName: Updated_Interaction_Test
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: Fuse VR Hackathon 2024
+  metroApplicationDescription: Updated_Interaction_Test
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -854,10 +850,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 627d5bca-c1e9-4675-b0a9-dddbc1ff264f
+  cloudProjectId: c5624672-c3a8-44ad-8b3e-f73409135b4d
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Fuse VR Hackathon 2024
+  projectName: Updated_Interaction_Test
   organizationId: constructivelurker
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
