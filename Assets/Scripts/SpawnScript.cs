@@ -11,21 +11,22 @@ public class SpawnScript : MonoBehaviour
 
     void Update()
     {
-        if (OVRInput.Get(OVRInput.Button.One))
+        if (OVRInput.GetDown(OVRInput.Button.One))
         {
             Instantiate(cone, transform.position, Quaternion.identity);
         }
-        if (OVRInput.Get(OVRInput.Button.Two))
+        if (OVRInput.GetDown(OVRInput.Button.Two))
         {
             Instantiate(ball, transform.position, Quaternion.identity);
         }
-        if (OVRInput.Get(OVRInput.Button.Three))
+        if (OVRInput.GetDown(OVRInput.Button.Three))
         {
             Instantiate(cube, transform.position, Quaternion.identity);
         }
-        if (OVRInput.Get(OVRInput.Button.Four))
+        if (OVRInput.GetDown(OVRInput.Button.Four))
         {
             Instantiate(pyramid, transform.position, Quaternion.identity);
         }
     }
+
 }
